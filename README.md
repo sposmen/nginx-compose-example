@@ -17,7 +17,7 @@ This nginx will share through `8080` port if want another port set it in the `do
 
 ## Static HTML
 
-Just add the new files to `html`. And refresh the browser
+Just add the new files to the `html` folder. And refresh the browser (no nginx restart required)
 
 ## New configs
 
